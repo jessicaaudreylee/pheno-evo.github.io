@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## The Pheno-evo model
 
-You can use the [editor on GitHub](https://github.com/Ritwikavps/pheno-evo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a group of scientists with diverse backgrounds and are interested in cool evolutionary stuff! We met at the 2019 [SFI Complex Systems Summer School]() -- the Pheno-evo model was a result of conversations we had there about microbial evolution. Our goal is to use this model to study the evolution of phenotypic diversity in microbes in two-dimensional space.
+
+# Why is this interesting?
+
+# What are we trying to do?
+
+# What tools are we using to do this?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
