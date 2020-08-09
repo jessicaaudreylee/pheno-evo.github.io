@@ -8,7 +8,7 @@ Microbes are generally thought of as simple, straight-forward model organisms.
 
 ### What tools are we using to do this?
 
-You can find information about our NetLogo model [here](https://ritwikavps.github.io/pheno-evo.github.io/phenoevonetlogo).
+You can find information about our NetLogo model [here](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel).
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
