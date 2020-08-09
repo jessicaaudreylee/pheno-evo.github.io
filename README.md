@@ -8,7 +8,7 @@ We are a group of scientists with diverse backgrounds and are interested in cool
 
 ## What tools are we using to do this?
 
-You can find information about our NetLogo model [here](https://octocat.github.io/phenoevonetlogo).
+You can find information about our NetLogo model [here](https://ritwikavps.github.io/pheno-evo.github.io/phenoevonetlogo).
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
