@@ -11,3 +11,5 @@ Microbes are generally thought of as simple, straight-forward model organisms.
 ### What tools are we using to do this?
 
 You can find information about our NetLogo model [here](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel).
+
+Find a vignette for our R package [here] (https://ritwikavps.github.io/pheno-evo.github.io/PhenoEvoR-intro-vignette)
