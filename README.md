@@ -7,4 +7,4 @@ Pheno-Evo is an agent-based model in 2D, written in NetLogo, specifically aimed 
 
 ### Who we are
 
-We are a group of scientists with diverse backgrounds and are interested in cool evolutionary stuff! We met at the 2019 [SFI Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school) -- the Pheno-Evo Project was a result of conversations we had there about microbial evolution. Our goal is to use this model to study the evolution of phenotypic diversity in microbes in two-dimensional space.
+We are a group of scientists with diverse backgrounds and are interested in cool evolutionary stuff! We met at the 2019 [SFI Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school) -- the Pheno-Evo Project was a result of conversations we had there about microbial evolution. Our goal is to use this model to study the evolution of phenotypic diversity in microbes in two-dimensional space. Questions? Comments? Email Jessica at jessica.audrey.lee (at) gmail.com.
