@@ -25,3 +25,5 @@ We have approached this problem using an agent-based model (ABM), simulating a p
 * Lachmann, M., and Jablonka, E. (1996). The Inheritance of Phenotypes: an Adaptation to Fluctuating Environments. Journal of Theoretical Biology 181, 1–9.
 * Nikolic, N., Schreiber, F., Co, A.D., Kiviet, D.J., Bergmiller, T., Littmann, S., Kuypers, M.M.M., and Ackermann, M. (2017). Cell-to-cell variation and specialization in sugar metabolism in clonal bacterial populations. PLOS Genetics 13, e1007122.
 * West, S.A., and Cooper, G.A. (2016). Division of labour in microorganisms: an evolutionary perspective. Nature Reviews Microbiology 14, 716.
+
+**[back to home](https://ritwikavps.github.io/pheno-evo.github.io/)**
