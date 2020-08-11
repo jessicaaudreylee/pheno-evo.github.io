@@ -7,7 +7,7 @@ Here are instructions for a small Pheno-Evo experiment that makes a good test ca
 
 **Notes**: For the purposes of generating a tractable dataset, we're restricting ourselves to only 3 values each of toxin.conc and env.noise, and only 1,000 timepoints. In real life, we might want to try a higher number of parameter values. We might also run the model for longer, though just how long takes some judgment.
 
-![NetLogo screenshot](images/PhenoEvo_screenshot.png)
+<img src="images/PhenoEvo_screenshot.png" width="800">
 
 **Methods**:
 1. Open the Pheno-Evo model in NetLogo on the desktop, and set sliders/choosers/buttons to the following values:
