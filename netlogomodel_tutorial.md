@@ -55,3 +55,6 @@ go
 *Another note: the interpretation of "unpredictability" and "environmental noise" here is a bit complicated. Noise (env.noise) here is essentially the layer that gets in between the actual environmental conditions (toxin concentrations) and the ability of the organisms to sense those conditions. If noise is low, the *signal* that organisms sense in their patch is pretty much equivalent to the actual *toxin* concentration. The higher the noise, the wider the potential margin between toxin and signal. At its highest limit, signal is essentially random, and organisms are unable to get any information about their environment.
 
 To some, "unpredictable" carries a temporal connotation: it refers to whether one can know what will happen in the future. Here, we use the term in a loose sense, to refer to whether organisms can know what is going on around them in the moment. But to test temporal predictability and unpredictability would be an interesting extension of this model.
+
+
+**[Back to home](https://ritwikavps.github.io/pheno-evo.github.io/)**
