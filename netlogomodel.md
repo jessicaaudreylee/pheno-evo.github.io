@@ -1,9 +1,11 @@
-## HOW DO I GET IT?
+# Pheno-Evo: the NetLogo model
+
+## How to get it
 The Pheno-Evo model is written in NetLogo. You can download the entire thing as a .nlogo file from [our GitHub repository](https://github.com/Ritwikavps/pheno-evo.github.io/tree/master/NetLogoModel), and run it on your computer using [NetLogo](https://ccl.northwestern.edu/netlogo/). NetLogo is free to download and it's easy to learn the basics quickly. If you're new to NetLogo, there are abundant resources online for playing with simpler models and learning to code your own.
 
 Alternatively, if you'd prefer not to run NetLogo on your computer, you can use the [NetLogo Web version of the Pheno-Evo model](https://ritwikavps.github.io/pheno-evo.github.io/pheno-evo_web.html). It has everything the original has except the color-coding (because that requires an extension not available for the web format). And some of the plots might be a bit difficult to interpret until you expand them to full screen. Lastly, it will be impossible to do the kinds of in-depth experiments and parameter sweeps on the web version that you can do with the original version, as [BehaviorSpace](https://ccl.northwestern.edu/netlogo/docs/behaviorspace.html) is not available for NetLogo Web. But if you're just looking to play around, this is a great place to start.
 
-## WHAT IS IT?
+## What it is
 This model simulates the growth of microbial cells in a 2-dimensional environment where they are periodically stressed by a toxin. You could imagine this universe as a culture of bacteria growing on agar in a (very small) petri dish that experimenters flood occasionally with antibiotics, or perhaps microbes growing on your skin, which you periodically wash with soap. Cells can degrade the toxin, but degradation takes energy, so there is a tradeoff: toxin-degrading cells reproduce more slowly. Moreover, because the toxin can diffuse through space, cells that degrade toxin are helping their neighbors.
 
 One of the key features of this model is that although the cells are all of the same population (that is, they're genetically identical*), it's possible for the individuals to have different phenotypes-- specifically, to have different abilities to degrade the toxin. This phenomenon is sometimes called "phenotypic heterogeneity," and we're interested in it because microbiologists have discovered that organisms can use phenotypic heterogeneity as a strategy for survival in stressful and unpredictable environments. It's an example of how microbes can generate more complex adaptive responses than we usually think. (Please see the References section for more information.)
@@ -12,7 +14,12 @@ The purpose of the Pheno-Evo model is to explore what the best strategy might be
 
 *Except in the case of mutation. If you run this model with mutation, it's important to consider both genetic diversity and phenotypic diversity at the same time.
 
-## HOW IT WORKS
+## How to learn to use it
+**The Info tab**: the NetLogo model itself has an Info tab where we've tried to include as much basic information as we can about how the model works. Much of that documentation is copied right here ("What it is," "How it works," "How to use it"), but there are also some more thought-provoking questions and exercises there as well, which we hope will help you explore the model.
+
+**The intro tutorial**: we've included [a brief tutorial here](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel_tutorial) that walks you through setting up an example experiment using BehaviorSpace. 
+
+## How it works
 We start with **n** microbial cells randomly distributed across the environment, one cell per patch. At each timestep, the following happens:
 
 1. Toxin is added to the environment and diffuses according to the parameters **pulse-rate,** **toxin-conc,** **pulsing-random?** and **diff-rate**. Patches are color-coded by toxin concentration, a gradient from white = 0 to black = 1.
@@ -42,7 +49,7 @@ Each cell has:
     * **health** = how well the cell is doing, generally. Toxin exposure reduces health
     * **growth-rate** = the probability the cell will reproduce at each timestep. This is recalculated each timestep based on the cell's health and the energy it is spending on sensing its environment and degrading toxin.
     
-## HOW TO USE IT
+## How to use it
 Choose your settings using the sliders, switches, chooser, and input fields to the left of the environment. Then hit **setup.** (Some parameters will update dynamically if you change them while the model is running, but it's safest to re-do setup after any changes.) Then hit **go.** 
 
 What the parameter settings do:
