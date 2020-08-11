@@ -1,5 +1,5 @@
 ## An example Pheno-Evo experiment
-Here are instructions for a small Pheno-Evo experiment that makes a good test case. This is what we did to generate the sample dataset PhenoEvo_Example_Experiment.csv. 
+Here are instructions for a small Pheno-Evo experiment that makes a good test case. This is what we did to generate the sample dataset [PhenoEvo_Example_Experiment.csv](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel). 
 
 **Question**: How do the severity and unpredictability* of stress affect organisms' evolved phenotypic response?
 
@@ -7,7 +7,7 @@ Here are instructions for a small Pheno-Evo experiment that makes a good test ca
 
 **Notes**: For the purposes of generating a tractable dataset, we're restricting ourselves to only 3 values each of toxin.conc and env.noise, and only 1,000 timepoints. In real life, we might want to try a higher number of parameter values. We might also run the model for longer, though just how long takes some judgment.
 
-<img src="https://github.com/Ritwikavps/pheno-evo.github.io/blob/master/images/PhenoEvo_screenshot.png">
+![NetLogo screenshot](https://github.com/Ritwikavps/pheno-evo.github.io/blob/master/images/PhenoEvo_screenshot.png)
 
 **Methods**:
 1. Open the Pheno-Evo model in NetLogo on the desktop, and set sliders/choosers/buttons to the following values:
