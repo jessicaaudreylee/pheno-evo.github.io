@@ -78,3 +78,5 @@ If there is no evolution (**mutation-rate** = 0), then **response-error** for al
   * "exponential": an exponential distribution with mean **phenotype-parm**
   * "one-value": all cells have a single degrade-rate, equal to **phenotype-parm**
   * "responsive": cells sense the toxin concentration in their patch and switch their **degrade-rate** to match that value, with the caveats that they are actually sensing **signal**, which might not be equal to the real **toxin** value, and how accurately they are able to match their **degrade-rate** to the **signal** depends on their **response-error**.
+
+**[Back to home](https://ritwikavps.github.io/pheno-evo.github.io/)**
