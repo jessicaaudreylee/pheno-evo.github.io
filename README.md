@@ -5,7 +5,7 @@ Pheno-Evo is an agent-based model in 2D, written in NetLogo, specifically aimed 
 * [PhenoEvoR](https://ritwikavps.github.io/pheno-evo.github.io/about_PhenoEvoR): a package with tools for analyzing the output of the Pheno-Evo model
 * some background information on phenotypic heterogeneity and why we care
 
-<img src="/images/schematic_200207.png" width="500">
+<img src="images/schematic_200207.png" width="500">
 
 ### Who we are
 
