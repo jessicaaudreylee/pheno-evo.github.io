@@ -14,7 +14,7 @@ The purpose of the Pheno-Evo model is to explore what the best strategy might be
 
 *Except in the case of mutation. If you run this model with mutation, it's important to consider both genetic diversity and phenotypic diversity at the same time.
 
-## How to learn to use it
+## How to learn about it
 **The Info tab**: the NetLogo model itself has an Info tab where we've tried to include as much basic information as we can about how the model works. Much of that documentation is copied right here ("What it is," "How it works," "How to use it"), but there are also some more thought-provoking questions and exercises there as well, which we hope will help you explore the model.
 
 **The intro tutorial**: we've included [a brief tutorial here](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel_tutorial) that walks you through setting up an example experiment using BehaviorSpace. 
