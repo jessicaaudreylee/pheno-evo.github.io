@@ -1,8 +1,8 @@
 You and your sister microbes are being inundated with a toxin. You have to choose among spending your energy on measuring toxin concentrations in your environment, degrading the toxin, or reproducing. What do you prioitize? Should you and your (genetically identical) sister cells all follow the same strategy, or should you diversify (phenotypic heterogeneity)? This is a question faced by real microbes, but they don't have the benefit of centralized decision-making. The Pheno-Evo model allows you to explore the best possible solutions, and to test whether evolution can solve the problem.
 
 Pheno-Evo is an agent-based model in 2D, written in NetLogo, specifically aimed at probing the evolutionary dynamics of microbial phenotypic heterogeneity. At this site, you'll find the following:
-* [The Pheno-Evo model](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel): available both for download and on the web
-* [PhenoEvoR](https://ritwikavps.github.io/pheno-evo.github.io/about_PhenoEvoR): a package with tools for analyzing the output of the Pheno-Evo model
+* **[The Pheno-Evo model](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel)**: available both for download and on the web
+* **[PhenoEvoR](https://ritwikavps.github.io/pheno-evo.github.io/about_PhenoEvoR)**: a package with tools for analyzing the output of the Pheno-Evo model
 * some background information on phenotypic heterogeneity and why we care
 
 <img src="images/schematic_200207.png" width="500">
