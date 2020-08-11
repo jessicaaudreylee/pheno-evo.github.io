@@ -1,7 +1,7 @@
 # PhenoEvoR: the R package for Pheno-Evo data
 
 ## How do I get it?
-You can install it directly from GitHub with the devtools package, using the following commands within R:
+You can install it directly from GitHub with the [devtools](https://cran.r-project.org/web/packages/devtools/index.html) package, using the following commands within R:
 
     install.packages("devtools") # only if you don't already have devtools installed!
     devtools::github_install("jessicaaudreylee/PhenoEvoR")
