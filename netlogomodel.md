@@ -81,4 +81,9 @@ If there is no evolution (**mutation-rate** = 0), then **response-error** for al
   * "one-value": all cells have a single degrade-rate, equal to **phenotype-parm**
   * "responsive": cells sense the toxin concentration in their patch and switch their **degrade-rate** to match that value, with the caveats that they are actually sensing **signal**, which might not be equal to the real **toxin** value, and how accurately they are able to match their **degrade-rate** to the **signal** depends on their **response-error**.
 
+## What we could have done better
+There's no end to list of things that we've considered adding to the functionality of this model but haven't yet, and decisions about implementations that we're still questioning. See the "Extending the Model" section of the "Info" tab in the NetLogo file for some ideas for things you might want to add or change. We are certainly open to feedback!
+
+We're especially aware that the model itself might already be a bit bulky; we haven't designed it for efficiency. You may find that if you run the model with the visual simulation going, it might sometimes get slow or freeze up, especially if you have "phenotype-dist" in "responsive" mode or if you have mutation turned on. This can usually be cleared up (at least for a little while) by closing NetLogo and opening again. And we haven't found it to be unexplained slowdowns to be an issue with BehaviorSpace runs. But if you know precisely what experiments you want to do and know that you can toss out some of the functionality you're not using, you may find it useful to pare down the code. Similarly, we'd urge caution when deciding what reporters to measure and save during experiments, keeping in mind that when you store data on every single cell at every timestep, file sizes can get big fast!
+
 **[Back to home](https://ritwikavps.github.io/pheno-evo.github.io/)**
