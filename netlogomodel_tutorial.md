@@ -26,6 +26,9 @@ Here are instructions for a small Pheno-Evo experiment that makes a good test ca
 * dilute-rate = 10
 2. In the menu on the top bar, choose Tools and navigate to BehaviorSpace.
 3. Select "New" to create a new BehaviorSpace experiement.
+
+<img src="images/BehaviorSpace_window.png" width="300" ALIGN="right" />
+
 4. Under "Vary variables as follows," enter the following:
 * ["toxin-conc" 0 0.5 1]
 * ["env-noise" 0 0.5 1]
@@ -46,9 +49,14 @@ go
 8. Hit "OK" to save the experiment and return to the BehaviorSpace Experiments list.
 9. To run the experiment, make sure it's selected in the list, and hit the "Run" button.
 10. In the Run options window that pops up, select "Table output" and deselect the other boxes. Enter the number of simultaneous runs that makes sense for your computer. Hit "OK."
+
+<img src="images/RunOptions.png" width="300" ALIGN="right" />
+
 11. A new window will open prompting you to name the output file and choose a place for it to be saved. Name it "PhenoEvo_Example_Experiment.csv" and save it wherever you'd like.
 12. Once you've hit "Save," the experiment will begin running, and new window will open to update you on status. If you're doing a few simultaneous runs, this should take only a few minutes.
 13. The resulting csv file can be loaded into R for analysis using [PhenoEvoR](https://ritwikavps.github.io/pheno-evo.github.io/about_PhenoEvoR).
+
+
 
 
 
