@@ -8,7 +8,7 @@ Alternatively, if you'd prefer not to run NetLogo on your computer, you can use 
 ## What it is
 This model simulates the growth of microbial cells in a 2-dimensional environment where they are periodically stressed by a toxin. You could imagine this universe as a culture of bacteria growing on agar in a (very small) petri dish that experimenters flood occasionally with antibiotics, or perhaps microbes growing on your skin, which you periodically wash with soap. Cells can degrade the toxin, but degradation takes energy, so there is a tradeoff: toxin-degrading cells reproduce more slowly. Moreover, because the toxin can diffuse through space, cells that degrade toxin are helping their neighbors.
 
-One of the key features of this model is that although the cells are all of the same population (that is, they're genetically identical*), it's possible for the individuals to have different phenotypes-- specifically, to have different abilities to degrade the toxin. This phenomenon is sometimes called "phenotypic heterogeneity," and we're interested in it because microbiologists have discovered that organisms can use phenotypic heterogeneity as a strategy for survival in stressful and unpredictable environments. It's an example of how microbes can generate more complex adaptive responses than we usually think. (Please see the References section for more information.)
+One of the key features of this model is that although the cells are all of the same population (that is, they're genetically identical*), it's possible for the individuals to have different phenotypes-- specifically, to have different abilities to degrade the toxin. This phenomenon is sometimes called "phenotypic heterogeneity," and we're interested in it because microbiologists have discovered that organisms can use phenotypic heterogeneity as a strategy for survival in stressful and unpredictable environments. It's an example of how microbes can generate more complex adaptive responses than we usually think. (Please see the [Background page](https://ritwikavps.github.io/pheno-evo.github.io/background) for more information.)
 
 The purpose of the Pheno-Evo model is to explore what the best strategy might be for the population as a whole to survive under different environmental conditions. In what cases does the population stand the best chances of surviving if all cells spend most of their energy on degrading toxin? When is it better to have some few toxin-degraders and some cells specialized at growing fast? As the experimenter, you can test different strategies and different conditions; you can also allow your population to evolve and see what solution it comes up with!
 
@@ -50,7 +50,9 @@ Each cell has:
     * **growth-rate** = the probability the cell will reproduce at each timestep. This is recalculated each timestep based on the cell's health and the energy it is spending on sensing its environment and degrading toxin.
     
 ## How to use it
-Choose your settings using the sliders, switches, chooser, and input fields to the left of the environment. Then hit **setup.** (Some parameters will update dynamically if you change them while the model is running, but it's safest to re-do setup after any changes.) Then hit **go.** 
+Choose your settings using the sliders, switches, chooser, and input fields to the left of the environment. Then hit **setup.** (Some parameters will update dynamically if you change them while the model is running, but it's safest to re-do setup after any changes.) Then hit **go.** You can watch it run!
+
+That's how you run one the model once. If you want to do an experiment to test the effect of several parameters, you'll want to use BehaviorSpace. [Visit our tutorial to get started](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel_tutorial).
 
 What the parameter settings do:
 
