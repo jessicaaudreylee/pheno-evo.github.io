@@ -14,7 +14,7 @@ Pheno-Evo is an agent-based model in 2D, written in NetLogo, specifically aimed 
 
 ## News!
 We're presenting a poster at [MEEVirtual](https://www.meevirtual.org/) this year!
-If you missed MEEVirtual, you can still [see our poster here](https://ritwikavps.github.io/pheno-evo.github.io/images/MEEvirtual_poster_2020.png)
+If you missed MEEVirtual, you can still [see our poster here](https://ritwikavps.github.io/pheno-evo.github.io/images/MEEvirtual_poster_2020.png).
 
 ## Who we are
 
