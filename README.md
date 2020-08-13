@@ -2,7 +2,7 @@ You and your sister microbes are being inundated with a toxin. You have to choos
 
 Pheno-Evo is an agent-based model in 2D, written in NetLogo, specifically aimed at probing the evolutionary dynamics of microbial phenotypic heterogeneity. At this site, you'll find the following:
 * **[The Pheno-Evo model](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel)**: available both for download and on the web
-  * [desktop version, for download](https://github.com/jessicaaudreylee/pheno-evo/tree/master/netlogo_scripts/for_publication)
+  * [desktop version, for download](https://github.com/jessicaaudreylee/pheno-evo/tree/master/netlogo_scripts/for_publication) 
   * [web version: play online!](https://ritwikavps.github.io/pheno-evo.github.io/pheno-evo_web.html)
   * [tutorial for Pheno-Evo experiment using BehaviorSpace](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel_tutorial)
 * **[PhenoEvoR](https://ritwikavps.github.io/pheno-evo.github.io/about_PhenoEvoR)**: a package with tools for analyzing the output of the Pheno-Evo model
