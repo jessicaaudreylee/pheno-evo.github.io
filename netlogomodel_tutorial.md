@@ -1,5 +1,5 @@
 ## An example Pheno-Evo experiment
-Here are instructions for a small Pheno-Evo experiment that makes a good test case. This is what we did to generate the sample dataset [PhenoEvo_Example_Experiment.csv](https://ritwikavps.github.io/pheno-evo.github.io/netlogomodel). 
+Here are instructions for a small Pheno-Evo experiment that makes a good test case. This is what we did to generate the sample dataset [PhenoEvo_Example_Experiment.csv](https://drive.google.com/drive/folders/1qApxQRWs9L2OAsBO4jDohXHHxXx0UwaV?usp=sharing). 
 
 **Question**: How do the severity and unpredictability* of stress affect organisms' evolved phenotypic response?
 
@@ -54,7 +54,7 @@ go
 
 11. A new window will open prompting you to name the output file and choose a place for it to be saved. Name it "PhenoEvo_Example_Experiment.csv" and save it wherever you'd like.
 12. Once you've hit "Save," the experiment will begin running, and new window will open to update you on status. If you're doing a few simultaneous runs, this should take only a few minutes.
-13. The resulting csv file can be loaded into R for analysis using [PhenoEvoR](https://ritwikavps.github.io/pheno-evo.github.io/about_PhenoEvoR).
+13. The resulting csv file can be loaded into R for analysis using [PhenoEvoR](https://jessicaaudreylee.github.io/pheno-evo.github.io/about_PhenoEvoR).
 
 
 
@@ -65,4 +65,4 @@ go
 To some, "unpredictable" carries a temporal connotation: it refers to whether one can know what will happen in the future. Here, we use the term in a loose sense, to refer to whether organisms can know what is going on around them in the moment. But to test temporal predictability and unpredictability would be an interesting extension of this model.
 
 
-**[Back to home](https://ritwikavps.github.io/pheno-evo.github.io/)**
+**[Back to home](https://jessicaaudreylee.github.io/pheno-evo.github.io/)**
