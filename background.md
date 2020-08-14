@@ -1,5 +1,5 @@
 ## Some background
-For a quick and visual summary, [please check out our poster from MEEVirtual 2020](https://ritwikavps.github.io/pheno-evo.github.io/images/MEEvirtual_poster_2020.png).
+For a quick and visual summary, [please check out our poster from MEEVirtual 2020](https://jessicaaudreylee.github.io/pheno-evo.github.io/images/MEEvirtual_poster_2020.png).
 
 ***Below is an introduction our group wrote for our report to the [Complex Systems Summer School 2019 Proceedings Book](https://santafe.edu/engage/learn/resources/2019-csss-proceedings).***
 
@@ -26,4 +26,4 @@ We have approached this problem using an agent-based model (ABM), simulating a p
 * Nikolic, N., Schreiber, F., Co, A.D., Kiviet, D.J., Bergmiller, T., Littmann, S., Kuypers, M.M.M., and Ackermann, M. (2017). Cell-to-cell variation and specialization in sugar metabolism in clonal bacterial populations. PLOS Genetics 13, e1007122.
 * West, S.A., and Cooper, G.A. (2016). Division of labour in microorganisms: an evolutionary perspective. Nature Reviews Microbiology 14, 716.
 
-**[back to home](https://ritwikavps.github.io/pheno-evo.github.io/)**
+**[back to home](https://jessicaaudreylee.github.io/pheno-evo.github.io/)**
