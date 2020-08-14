@@ -7,9 +7,9 @@ You can install it directly from GitHub with the [devtools](https://cran.r-proje
     devtools::github_install("jessicaaudreylee/PhenoEvoR")
 
 ## What it is
-It contains all the functions you need to get from the BehaviorSpace output table to plots that summarize temporal and spatial dynamics of your model populations. [Check out our vignette here](https://ritwikavps.github.io/pheno-evo.github.io/PhenoEvoR-intro-vignette).
+It contains all the functions you need to get from the BehaviorSpace output table to plots that summarize temporal and spatial dynamics of your model populations. [Check out our vignette here](https://jessicaaudreylee.github.io/pheno-evo.github.io/PhenoEvoR-intro-vignette).
 
-**For use with the vignette, you'll want to download this example dataset: [PhenoEvo_Example_experiment.csv.zip](https://drive.google.com/file/d/1u7aGSetxyY_kgFrck03udQt7sggRxQfA/view?usp=sharing)**
+**For use with the vignette, you'll want to download this example dataset: [PhenoEvo_Example_experiment.csv.zip](https://drive.google.com/drive/folders/1qApxQRWs9L2OAsBO4jDohXHHxXx0UwaV)**
 This was generated from an unrealistically small experiment, as described in our Pheno-Evo tutorial. But it contains all the components you need to test out the PhenoEvoR analyses. It is a 345MB zipped CSV file.
 
 ## What we could have done better
