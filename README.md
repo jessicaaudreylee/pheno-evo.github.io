@@ -6,9 +6,9 @@ Pheno-Evo is an agent-based model in 2D, written in NetLogo, specifically aimed 
   * [web version: play online!](pheno-evo_web.html)
   * [tutorial for Pheno-Evo experiment using BehaviorSpace](netlogomodel_tutorial)
 * **[PhenoEvoR](about_PhenoEvoR)**: a package with tools for analyzing the output of the Pheno-Evo model
-  * [example dataset download](https://drive.google.com/file/d/1u7aGSetxyY_kgFrck03udQt7sggRxQfA/view?usp=sharing)
+  * [example dataset download](https://drive.google.com/drive/folders/1qApxQRWs9L2OAsBO4jDohXHHxXx0UwaV)
   * [intro vignette](PhenoEvoR-intro-vignette)
-* some [background information](background) on phenotypic heterogeneity and why we care
+  * some [background information](background) on phenotypic heterogeneity and why we care
 
 <img src="images/schematic_200207.png" width="500">
 
