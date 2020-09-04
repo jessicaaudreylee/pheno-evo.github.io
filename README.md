@@ -22,5 +22,7 @@ We are a group of scientists with diverse backgrounds and are interested in cool
 
 Want to cite us? Please include this information:
 JA Lee, D Borrero, K Leyba, P Mantri, A Reynolds, and R Vallomparambath PanikkasserySugasree. (2020) The Pheno-Evo model: Evolution of microbial phenotypic diversity in 2D space. https://everydaymicrobe.com/pheno-evo
+DOI: 10.5281/zenodo.4015578 (the Pheno-Evo model for NetLogo)
+DOI: 10.5281/zenodo.4015585 (PhenoEvoR)
 
 Questions? Comments? Email [Jessica](https://everydaymicrobe.com/) at **jessica.audrey.lee (at) gmail.com**.
