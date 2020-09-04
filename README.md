@@ -1,14 +1,14 @@
 You and your sister microbes are being inundated with a toxin. You have to choose among spending your energy on measuring toxin concentrations in your environment, degrading the toxin, or reproducing. What do you prioitize? Should you and your (genetically identical) sister cells all follow the same strategy, or should you diversify (phenotypic heterogeneity)? This is a question faced by real microbes, but they don't have the benefit of centralized decision-making. The Pheno-Evo model allows you to explore the best possible solutions, and to test whether evolution can solve the problem.
 
 Pheno-Evo is an agent-based model in 2D, written in NetLogo, specifically aimed at probing the evolutionary dynamics of microbial phenotypic heterogeneity. At this site, you'll find the following:
-* **[The Pheno-Evo model](netlogomodel)**: available both for download and on the web
+* **[The Pheno-Evo model](https://jessicaaudreylee.github.io/pheno-evo.github.io/netlogomodel)**: available both for download and on the web
   * [desktop version, for download](https://github.com/jessicaaudreylee/Pheno-Evo-NetLogo-model/releases/tag/v1.0) 
-  * [web version: play online!](pheno-evo_web.html)
-  * [tutorial for Pheno-Evo experiment using BehaviorSpace](netlogomodel_tutorial)
-* **[PhenoEvoR](about_PhenoEvoR)**: a package with tools for analyzing the output of the Pheno-Evo model
+  * [web version: play online!](https://jessicaaudreylee.github.io/pheno-evo.github.io/pheno-evo_web.html)
+  * [tutorial for Pheno-Evo experiment using BehaviorSpace](https://jessicaaudreylee.github.io/pheno-evo.github.io/netlogomodel_tutorial)
+* **[PhenoEvoR](https://jessicaaudreylee.github.io/pheno-evo.github.io/about_PhenoEvoR)**: a package with tools for analyzing the output of the Pheno-Evo model
   * [example dataset download](https://drive.google.com/file/d/1u7aGSetxyY_kgFrck03udQt7sggRxQfA/view?usp=sharing)
-  * [intro vignette](PhenoEvoR-intro-vignette)
-  * some [background information](background) on phenotypic heterogeneity and why we care
+  * [intro vignette](https://jessicaaudreylee.github.io/pheno-evo.github.io/PhenoEvoR-intro-vignette)
+  * some [background information](https://jessicaaudreylee.github.io/pheno-evo.github.io/background) on phenotypic heterogeneity and why we care
 
 <img src="images/schematic_200207.png" width="500">
 
