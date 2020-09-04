@@ -21,8 +21,8 @@ If you missed MEEVirtual, you can still [see our poster here](https://jessicaaud
 We are a group of scientists with diverse backgrounds and are interested in cool evolutionary stuff! We met at the 2019 [SFI Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school) -- the Pheno-Evo Project was a result of conversations we had there about microbial evolution. Our goal is to use this model to study the evolution of phenotypic diversity in microbes in two-dimensional space. 
 
 Want to cite us? Please include this information:
-JA Lee, D Borrero, K Leyba, P Mantri, A Reynolds, and R Vallomparambath PanikkasserySugasree. (2020) The Pheno-Evo model: Evolution of microbial phenotypic diversity in 2D space. https://everydaymicrobe.com/pheno-evo
-DOI: 10.5281/zenodo.4015578 (the Pheno-Evo model for NetLogo)
+JA Lee, D Borrero, K Leyba, P Mantri, A Reynolds, and R Vallomparambath PanikkasserySugasree. (2020) The Pheno-Evo model: Evolution of microbial phenotypic diversity in 2D space. https://everydaymicrobe.com/pheno-evo  
+DOI: 10.5281/zenodo.4015578 (the Pheno-Evo model for NetLogo)  
 DOI: 10.5281/zenodo.4015585 (PhenoEvoR)
 
 Questions? Comments? Email [Jessica](https://everydaymicrobe.com/) at **jessica.audrey.lee (at) gmail.com**.
